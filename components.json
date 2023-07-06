@@ -10,6 +10,6 @@
   },
   "aliases": {
     "components": "src/common/components",
-    "utils": "src/common/lib/utils"
+    "utils": "@/common/lib/utils"
   }
 }
